@@ -1,1 +1,1 @@
-* Se uso el compilador GCC
+# Se uso el compilador GCC
