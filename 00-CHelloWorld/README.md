@@ -1,6 +1,9 @@
 # TP 0
 el TP 0 es un simple programa de C que imprime por pantalla la sentencia Hello World usando la funcion **printf**.
 
+```printf("Hello World!\n");```
+
+
 ## Instalacion
 
 * Forkear el proyecto.
