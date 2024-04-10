@@ -5,7 +5,7 @@ el TP 0 es un simple programa de C que imprime por pantalla la sentencia Hello W
 
 * Forkear el proyecto.
 
-### Requeriments
+### Requerimientos
 
 * debera tener instalado un compilador de C en este caso se uso el GCC que viene incluido en la GNU Compiler Collection.
 
