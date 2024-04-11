@@ -18,13 +18,13 @@ el TP 0 es un simple programa de C que imprime por pantalla la sentencia Hello W
 
 ## Test and Deploy 
 
-* Primero debera compilar el proyecto usando **gcc hello.c -o nombreEjecutable**.
-* Luego ejecutara el proceso usando **./nombreEjecutable**.
+* Primero debera compilar el proyecto usando **```gcc hello.c -o nombreEjecutable```**.
+* Luego ejecutara el proceso usando **```./nombreEjecutable```**.
 * Recordar siempre estar en la carpeta donde esta el archivo.
 
 ### Funcionalidades extras
   
-* Si quisiera crear un archivo de texto donde escriba las salidas por pantalla puede hacerlo con el comando **./nombreEjecutable > nombreArchivo.txt**, en windows probablemente tendra que hacer **./nombreEjecutable.exe > nombreArchivo.txt**.
+* Si quisiera crear un archivo de texto donde escriba las salidas por pantalla puede hacerlo con el comando **```./nombreEjecutable > nombreArchivo.txt```**, en windows probablemente tendra que hacer **```./nombreEjecutable.exe > nombreArchivo.txt```**.
 
-* Otra forma de compilarlo para usar un estandar como el c11 deberia usar el comando **gcc hello.c -std=gnu11 -o nombreEjecutable**.
+* Otra forma de compilarlo para usar un estandar como el c11 deberia usar el comando **```gcc hello.c -std=gnu11 -o nombreEjecutable```**.
 
